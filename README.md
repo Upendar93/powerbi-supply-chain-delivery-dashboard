@@ -88,7 +88,7 @@ These KPIs provide an executive snapshot of overall supply chain health.
 
 ## Repository Contents
 - `Supply_Chain_Delivery_Performance.pbix` – Power BI report file  
-- `supplychain_Dashboard.png` – Full dashboard preview  
+  ![Dashboard Overview](Supplychain_Dashboard.png)  
 ---
 
 ## How to Use
